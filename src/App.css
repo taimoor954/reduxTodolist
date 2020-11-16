@@ -1,0 +1,13 @@
+.App {
+  background-color: slateblue;
+  height: 100vh ;
+}
+
+
+.flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+

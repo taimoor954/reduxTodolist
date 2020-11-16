@@ -1,0 +1,21 @@
+.name{
+    margin-right: 50rem;
+}
+.heading{
+    margin-right:2em ;
+}
+.buttonDone{
+    margin-right: 2em ;
+    height: 2em;
+    width: 8em;
+
+}
+.buttonDelete{
+    /* margin-right: 2em ; */
+    height: 2em;
+    width: 8em;
+
+}
+.todo{
+    /* background-color: seagreen; */
+}

@@ -1,0 +1,22 @@
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.Input{
+    height: 2em;
+    width: 18em;
+    margin-right: 2rem;
+}
+
+.form{
+    /* background-color: salmon; */
+    margin-top: 1em;
+}
+
+.Button{
+    height: 2em;
+    width: 8em;
+}
